@@ -44,6 +44,7 @@ homebrew_installed_packages:
   - openssl
   - pv
   - pyenv-virtualenv
+  - vfuse
   - wget
   - wrk
   - zsh
